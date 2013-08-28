@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- server sensor -->
+    <string-array name="server_valuepaths">
+        <item>http_status</item>
+    </string-array>
+
+
+</resources>
